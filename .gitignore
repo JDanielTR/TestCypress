@@ -1,0 +1,17 @@
+node_modules/
+cypress/support/videos/features/*.mp4
+cypress/screenshots/*.png
+cypress/videos/features/*.mp4
+oracle_instant_client*
+instantclient_21_6/
+allure
+*.png
+cypress/reports
+cypress/config/fixtures/login/loginPage.json
+.scannerwork/
+logs/
+cypress/downloads/
+.obsidian/
+.idea/
+mochawesome-report/
+cypress/cucumber-json/
